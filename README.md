@@ -9,14 +9,11 @@ Currently diving deep into **Spring Boot**, **Spring Security**, and **service a
 ## 🛠️ Tech Stack
 
 - **Java Core** ☕️ (OOP, Streams, Multithreading, Collections)
-- **Spring Framework** 🌿 (IoC, DI, MVC, Beans, Configuration)
-- **Spring Boot** ⚙️
+- **Spring Framework** ⚙ (Core, Boot, MVC, Security)
 - **Hibernate & JPA** 🚀
 - **PostgreSQL** 🗄
 - **Git** ⚡️
 - **Maven & Gradle** ⚒️
-- **REST APIs** 🔗
-- **Telegram Bots** 🤖
 
 ---
 
