@@ -1,4 +1,5 @@
 <img width="498" height="401" alt="image" src="https://github.com/user-attachments/assets/41b8e540-46b1-45f9-afb5-abe325f5cb80" />
+
 # Hi there 👋 I'm Stepan (StefanParmezan)
 
 Java developer passionate about building robust web applications and Telegram bots.  
