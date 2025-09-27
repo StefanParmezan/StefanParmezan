@@ -1,4 +1,4 @@
-https://robertkaramagi.com/wp-content/uploads/2017/12/duke-v4.gif?w=226&h=242
+![duke-v4](https://github.com/user-attachments/assets/da5287f6-eb16-43b9-bc75-99df06fcc1c3)
 
 # Hi there 👋 I'm Stepan (StefanParmezan)
 
