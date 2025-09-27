@@ -1,4 +1,5 @@
-https://image.myanimelist.net/ui/ogNrt6xjoxcgp7z0v_1Zi2p4TNMT89GxEbI6bEpnIOA9bB3QI7Sm6XgzWfaPulugTYDE7ZRMqEUvfYhKD92eUmXmHVbnvePWIwNPCrPlKdE
+![ogNrt6xjoxcgp7z0v_1Zi2p4TNMT89GxEbI6bEpnIOA9bB3QI7Sm6XgzWfaPulugTYDE7ZRMqEUvfYhKD92eUmXmHVbnvePWIwNPCrPlKdE](https://github.com/user-attachments/assets/dcf83151-0860-42dc-9e7f-cd21cdc1b784)
+
 
 # Hi there 👋 I'm Stepan (StefanParmezan)
 
