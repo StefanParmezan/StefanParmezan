@@ -1,4 +1,4 @@
-![duke-v4](https://github.com/user-attachments/assets/da5287f6-eb16-43b9-bc75-99df06fcc1c3)
+https://image.myanimelist.net/ui/ogNrt6xjoxcgp7z0v_1Zi2p4TNMT89GxEbI6bEpnIOA9bB3QI7Sm6XgzWfaPulugTYDE7ZRMqEUvfYhKD92eUmXmHVbnvePWIwNPCrPlKdE
 
 # Hi there 👋 I'm Stepan (StefanParmezan)
 
