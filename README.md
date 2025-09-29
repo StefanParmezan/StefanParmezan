@@ -17,7 +17,7 @@ Currently diving deep into **Spring Boot**, **Spring Security**, and **service a
 - **PostgreSQL** 🗄
 - **Git** ⚡️
 - **Maven & Gradle** ⚒️
-- -**Postman** 👨‍🚀
+- **Postman** 👨‍🚀
 
 ---
 
