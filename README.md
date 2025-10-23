@@ -1,17 +1,16 @@
 ![ogNrt6xjoxcgp7z0v_1Zi2p4TNMT89GxEbI6bEpnIOA9bB3QI7Sm6XgzWfaPulugTYDE7ZRMqEUvfYhKD92eUmXmHVbnvePWIwNPCrPlKdE](https://github.com/user-attachments/assets/dcf83151-0860-42dc-9e7f-cd21cdc1b784)
 
+# Привет 👋 Я Степан (StefanParmezan)
 
-# Hi there 👋 I'm Stepan (StefanParmezan)
-
-Java developer passionate about building robust web applications and Telegram bots.  
-I love working in teams, solving complex problems, and continuously improving my craft.  
-Currently diving deep into **Spring Boot**, **Spring Security**, and **service architecture**.
+Java-разработчик, увлеченный созданием надежных веб-приложений и Telegram-ботов.  
+Мне нравится работать в командах, решать сложные задачи и постоянно совершенствовать свои навыки.  
+В настоящее время углубленно изучаю **Spring Boot**, **Spring Security** и **сервисную архитектуру**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологический стек
 
-- **Java Core** ☕️ (OOP, Streams, Multithreading, Collections)
+- **Java Core** ☕️ (ООП, Streams, Многопоточность, Коллекции)
 - **Spring Framework** ⚙ (Core, Boot, MVC, Security)
 - **Hibernate & JPA** 🚀
 - **PostgreSQL** 🗄
@@ -21,26 +20,26 @@ Currently diving deep into **Spring Boot**, **Spring Security**, and **service a
 
 ---
 
-## 📚 Currently Learning
+## 📚 Сейчас изучаю
 
-- ✅ **Spring Boot** — building production-ready apps
-- 🔐 **Spring Security** — authentication & authorization
-- 🏗️ **Service Architecture** — clean design, layers, scalability
-- 🧪 Testing & best practices for enterprise applications
-
----
-
-## 🌐 Let's Connect & Build Together!
-
-I'm actively looking to join or start a **full-stack project** with a strong team.  
-If you're a:
-- **Frontend Developer** 🎨
-- **UI/UX Designer** 🖼
-- **System Analyst** 📊
-
-— let's create something awesome! I believe great products come from great collaboration.
+- ✅ **Spring Boot** — создание готовых к эксплуатации приложений
+- 🔐 **Spring Security** — аутентификация и авторизация
+- 🏗️ **Сервисная архитектура** — чистая архитектура, слои, масштабируемость
+- 🧪 Тестирование и лучшие практики для корпоративных приложений
 
 ---
 
-## 📬 How to reach me
+## 🌐 Давайте соединимся и создадим что-то вместе!
+
+Я активно ищу возможность присоединиться к **full-stack проекту** или начать его с сильной командой.  
+Если вы:
+- **Frontend-разработчик** 🎨
+- **UI/UX-дизайнер** 🖼
+- **Системный аналитик** 📊
+
+— давайте создадим что-то потрясающее! Я верю, что великие продукты рождаются в результате отличного сотрудничества.
+
+---
+
+## 📬 Как со мной связаться
 - 💬 Telegram: [@StefanParmezan](https://t.me/StefanParmezan)
