@@ -1,49 +1,63 @@
-# Hi there 👋 I'm Stepan (StefanParmezan)
+## Привет меня зовут Степан (⁠o⁠´⁠･⁠_⁠･⁠)⁠っ
 
-Java developer passionate about building reliable web applications and Forge Mods
-I enjoy working in teams, tackling complex challenges, and constantly improving my skills.  
-Currently diving deep into **Spring Boot**, **Spring Security**, and **service architecture**.
+Java разработчик интересующийся бэкендом и модами для игры Minecraft 
+Люблю работать в команде, строить архитектуру программного обеспечения м оптимизировать процессы его работы.
 
----
-
-## 🛠️ Tech Stack
-
-- **Java Core** ☕️ (OOP, Streams, Concurrency, Collections)
-- **Spring Framework** ⚙ (Core, Boot, MVC, Security)
-- **Hibernate & JPA** 🚀
-- **PostgreSQL** 🗄
-- **Git** ⚡️
-- **Maven & Gradle** ⚒️
-- **Postman** 👨‍🚀
+В данный момент активно занимаюсь разработкой нескольких модов для таких версий как 1.12.2, 1.20.1, а также разработкой бэкенда.
 
 ---
 
-## 📚 Currently Learning
+##  Мой Стэк ᕙ⁠ ⁠(⁠°⁠ • ⁠°⁠ ⁠~⁠)
 
-- ✅ **Spring Boot** — building production-ready applications
-- 🔐 **Spring Security** — authentication and authorization
-- 🏗️ **Service Architecture** — clean architecture, layers, scalability
-- 🪩 **Microservices** — scaling, performance, and fault tolerance
-- 🧪 Testing and best practices for enterprise applications
+Бэкенд:
+- Java Core (ООП, Stream API, параллелизм, коллекции и работа с памятью)
+- Spring Framework (Core, Boot, MVC, Security)
+- Java Persistence Api (JPA) 
+- PostgreSQL 
+- Git 
+- Maven и Gradle 
+- Postman 
 
----
-
-## 🌐 Let's Connect and Build Something Together!
-
-I'm actively looking for opportunities to join a **full-stack project** or start one with a strong team.  
-If you are:
-- **Frontend Developer** 🎨
-- **UI/UX Designer** 🖼
-- **System Analyst** 📊
-
-— let's create something amazing! I believe great products are born from great collaboration.
+Моддинг:
+- Forge Modloader (1.12.2, 1.20.1)
 
 ---
 
-## 📬 How to Reach Me
-- 💬 Telegram: [@StefanParmezan](https://t.me/StefanParmezan)
-- 🎮 Discord: `Tutuplay2222`
+## Активные проекты ✧⁠\⁠(⁠>⁠o⁠<⁠)⁠ﾉ⁠✧
+
+- HBM's Nuclear Tech Well-forged Edition - форк популярного индустриального мода HBM's Nuclear Tech Extended Edition про ядерные технологии на версию Minecraft 1.12.2, добавляет и портирует множество QoL фич, оптимизаций, авторского контента, а также включает в себя реворк и ребаланс некоторых аспектов мода.
+
+Ссылки:  https://www.curseforge.com/minecraft/mc-mods/ntm-well-forged-edition
+https://github.com/Glozeysk/Hbm-s-Nuclear-Tech-Waldemar-Edition
 
 ---
 
-> 💡 *P.S. Feel free to reach out even if you just want to chat about Java, Spring, or tech in general!*
+## Сейчас учу ┐⁠(⁠´⁠ー⁠｀⁠)⁠┌
+
+- Spring Boot - построение prod-ready Бэкенд сервисов
+- Spring Security - аутентификация и авторизация
+- Базы данных - оптимальное хранение, 3НФ, репликация и оптимизация
+- Сервисная архитектура - слои архитектуры, архитектурные паттерны, расширяемость
+- Микросервисы - расширяемость и производительность в проде
+- Тестирование и best-practices 
+- Алгоритмика - способы применения геометрии и математики в моддинге
+
+---
+
+##  Совместная разработка (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠)
+
+Я активно интересуюсь поиском новых знакомств в IT, а также новых векторов обучения 
+Если вы занимаетесь:
+- Разработкой фронтенда
+- UI/UX дизайнер
+- Системный аналитик
+- Разработчик модов (Forge)
+- 3Д моделлер или художник по текстурам
+
+Буду очень рад поработать или просто пообщаться на тему нашей с вами сферу
+
+---
+
+## Ссылки ←⁠(⁠*⁠꒪⁠ヮ⁠꒪⁠*⁠)
+- Telegram: [@StefanParmezan](https://t.me/StefanParmezan)
+- Discord: `Tutuplay2222`
