@@ -25,7 +25,7 @@ Java разработчик интересующийся бэкендом и м�
 
 ## Активные проекты ✧⁠\⁠(⁠>⁠o⁠<⁠)⁠ﾉ⁠✧
 
-- HBM's Nuclear Tech Well-forged Edition - форк популярного индустриального мода HBM's Nuclear Tech Extended Edition про ядерные технологии на версию Minecraft 1.12.2, добавляет и портирует множество QoL фич, оптимизаций, авторского контента, а также включает в себя реворк и ребаланс некоторых аспектов мода. <br/>
+- HBM's Nuclear Tech Well-forged Edition - форк популярного индустриального мода HBM's Nuclear Tech Extended Edition (1.12.2) исправил множество багов, портировал асинхронную отработку пакетов, добавил новую систему конвейеров, работал над множеством оптимизаций и ребаланса<br/>
 Ссылки: <br/> [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ntm-well-forged-edition) <br/>
 [GitHub Source](https://github.com/Glozeysk/Hbm-s-Nuclear-Tech-Waldemar-Edition)
 
