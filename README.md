@@ -27,8 +27,9 @@ Java разработчик интересующийся бэкендом и м�
 
 - HBM's Nuclear Tech Well-forged Edition - форк популярного индустриального мода HBM's Nuclear Tech Extended Edition про ядерные технологии на версию Minecraft 1.12.2, добавляет и портирует множество QoL фич, оптимизаций, авторского контента, а также включает в себя реворк и ребаланс некоторых аспектов мода. <br/>
 Ссылки: <br/>
-  https://www.curseforge.com/minecraft/mc-mods/ntm-well-forged-edition (страница CurseForge)<br/>
-  https://github.com/Glozeysk/Hbm-s-Nuclear-Tech-Waldemar-Edition (сурс код) 
+
+ [![CurseForge](https://shields.io🔥-orange)](https://www.curseforge.com/minecraft/mc-mods/ntm-well-forged-edition) [GitHub Source](https://github.com/Glozeysk/Hbm-s-Nuclear-Tech-Waldemar-Edition)
+ https://github.com/Glozeysk/Hbm-s-Nuclear-Tech-Waldemar-Edition (сурс код) 
 
 ---
 
@@ -47,8 +48,6 @@ Java разработчик интересующийся бэкендом и м�
 Я активно интересуюсь поиском новых знакомств в IT, а также новых векторов обучения
 <br/>Если вы занимаетесь:
 - Разработкой фронтенда
-- UI/UX дизайнер
-- Системный аналитик
 - Разработчик модов (Forge)
 - 3Д моделлер или художник по текстурам
 
