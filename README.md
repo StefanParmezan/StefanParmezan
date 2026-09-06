@@ -7,7 +7,10 @@
 ---
 
 ##  Мой Стэк ᕙ⁠ ⁠(⁠°⁠ • ⁠°⁠ ⁠~⁠)
+- JDK (17, 21, 25)
 - Forge Modloader (1.12.2, 1.20.1)
+- Sponge Mixins (1.20.1)
+- Spark Profiler (1.20.1)
 
 ---
 
