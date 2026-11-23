@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:36BCF7,50:6C63FF,100:FF4F9A&text=Stepan%20Parmezan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Java%20Developer%20%C2%B7%20Backend%20%C2%B7%20SQL&descAlignY=57&descSize=17&animation=fadeIn" alt="StefanParmezan — Java Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:36BCF7,50:6C63FF,100:FF4F9A&text=StefanParmezan&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Java%20Developer%20%C2%B7%20Backend%20%C2%B7%20SQL&descAlignY=57&descSize=17&animation=fadeIn" alt="StefanParmezan — Java Developer" width="100%" />
 
 <a href="https://t.me/StefanParmezan"><img src="https://img.shields.io/badge/Telegram-@StefanParmezan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://github.com/StefanParmezan"><img src="https://img.shields.io/badge/GitHub-StefanParmezan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
